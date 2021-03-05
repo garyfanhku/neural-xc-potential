@@ -32,7 +32,10 @@ Although it is perfectly fine to directly modify `.md` files using whatever mark
 - Quick bits on Meta-learning: [slides](https://ai.stanford.edu/~cbfinn/_files/samsung_ai_forum.pdf) 
 - ICML 2019 Meta-learning [Tutorial with videos](https://sites.google.com/view/icml19metalearning), [slides](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view) 
 
+### Alphafold 2 and Equivariance
 
+- a [blog post](https://fabianfuchsml.github.io/alphafold2/) on the equivariance of Alphafold 2 with some nice illustrations
+- [iterative 3D equivariance](https://fabianfuchsml.github.io/se3iterative/) (SE(3) transformer)
 ## References for neural XC
 
 | Name                                                         | Authors     | Dataset                          | Model              | Translation invariance     | URL                                                          | Code                                                         | Library     | Year      | Status | Journals | Is-Survey |
