@@ -19,9 +19,9 @@ Although it is perfectly fine to directly modify `.md` files using whatever mark
 
 ## Repository structure
 
-- Journals like [[2021-03-04]] is used for logging meeting notes.
-- Action items can be found at [[todo]]
-- [[inbox]] stores unfiltered unorganized raw information, which will later on be organized and put into corresponding references.  
+- Journals like [[2021-03-04]] is used for house-keeping.
+- Action items can be found at [[todo]] (maintenance stuff, non-academic).
+- [[inbox]] stores unfiltered unorganized raw information/references, which will later on be organized and put into corresponding references.  
 
 
 ## Resources for deep learning
