@@ -26,7 +26,11 @@ Although it is perfectly fine to directly modify `.md` files using whatever mark
 
 ## Resources for deep learning
 
-- Really good [Meta-learning Lectures](https://cs330.stanford.edu/) by Chelsea Finn.
+### Meta-learning 
+
+- Really good comprehensive [Meta-learning lectures](https://cs330.stanford.edu/) by Chelsea Finn.
+- Quick bits on Meta-learning: [slides](https://ai.stanford.edu/~cbfinn/_files/samsung_ai_forum.pdf) 
+- ICML 2019 Meta-learning [Tutorial with videos](https://sites.google.com/view/icml19metalearning), [slides](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view) 
 
 
 ## References for neural XC
