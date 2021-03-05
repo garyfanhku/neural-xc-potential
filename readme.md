@@ -24,6 +24,11 @@ Although it is perfectly fine to directly modify `.md` files using whatever mark
 - [[inbox]] stores unfiltered unorganized raw information, which will later on be organized and put into corresponding references.  
 
 
+## Resources for deep learning
+
+- Really good [Meta-learning Lectures](https://cs330.stanford.edu/) by Chelsea Finn.
+
+
 ## References for neural XC
 
 | Name                                                         | Authors     | Dataset                          | Model              | Translation invariance     | URL                                                          | Code                                                         | Library     | Year      | Status | Journals | Is-Survey |
